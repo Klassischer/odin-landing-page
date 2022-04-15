@@ -206,6 +206,10 @@ button {
     height: 40px;
 }
 
+.callto-text-sub {
+    font-size: 18px;
+}
+
 .footer {
     display: flex;
     height: 70px;
